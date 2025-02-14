@@ -96,10 +96,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil31082005&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
-### **🧠 LeetCode Stats**
+## 🏆 LeetCode Stats:
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/nsikarwar496?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/nsikarwar496?ext=contest&ext=heatmap" alt="LeetCode Stats" width="400" height="300" />
+  <img src="https://leetcard.jacoblin.cool/nsikarwar496?ext=contest" alt="LeetCode Stats" width="400" height="300" />
 </p>
+
+
+
+
+
 
 ---
 
