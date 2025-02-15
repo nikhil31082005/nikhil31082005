@@ -24,7 +24,7 @@
 <h3 align="center">A passionate <span style="color:#61DBFB;">MERN Stack</span> developer from <span style="color:#FF5722;">India</span>.</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400px" alt="Coding GIF">
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400">
 </p>
 
 <p align="center">
